@@ -1,0 +1,1 @@
+Imagine that it is September 2017 and that you work for a hospitality company. The company you worked for just bought two new hotels H1 a Resort hotel and H2 a City hotel. As part of the acquisition your company was given some booking history for the two hotels. Try to forecast the hotels demand for the rest of 2017
